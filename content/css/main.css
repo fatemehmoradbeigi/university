@@ -1675,7 +1675,7 @@ footer{
     
         width: 100%;
         height: auto;
-        min-height: 600px;
+        min-height: 1100px;
         display: block;
     
     }
@@ -1683,11 +1683,15 @@ footer{
     .box5{
     
         width: 100%;
-        height:600px ;
+        height:800px ;
         margin: 0px;
     
     }
-    
+    .box5  p{
+
+        padding: 20px !important;
+    }
+  
     .box5 img{
     
         width: 100%;
@@ -1727,6 +1731,7 @@ footer{
         border-radius: 20px;
         border: 1px solid #fd5f00;
         margin-top: 40px;
+        margin-left: 20px;
         cursor: pointer;
     
     }
