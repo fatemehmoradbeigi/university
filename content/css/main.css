@@ -1551,7 +1551,7 @@ footer{
     .zeg{
     
         width: 18%;
-        height: 70px;
+        height: 60px;
         background-color:#fd5f00;
         border-radius: 50%;
     
@@ -1683,7 +1683,7 @@ footer{
     .box5{
     
         width: 100%;
-        height:800px ;
+        height:650px ;
         margin: 0px;
     
     }
@@ -1695,7 +1695,7 @@ footer{
     .box5 img{
     
         width: 100%;
-        height: 50%;
+        height: 33%;
 
     }
     .txt{
@@ -1704,15 +1704,12 @@ footer{
         margin: auto;
         
     }
-    
-    
-    
+
     #alone{
     
-        margin-right: 55px;
+        margin-right: 30px;
         font-size: 12px;
         color: #666;
-    
     
     }
     
@@ -1749,7 +1746,7 @@ footer{
         width: 100%;
         height: 200px;
         text-align: center;
-        padding-top: 70px;
+        padding-top: 20px;
     
     
     }
@@ -1801,7 +1798,7 @@ footer{
     .pic2 img{
     
         width: 100%;
-        height: 70%;
+        height: 65%;
         
     }
     
@@ -1983,7 +1980,7 @@ footer{
     .box7{
     
         width: 100%;
-        height: 570px;     
+        height: 650px;     
         background-color: white;
         margin: 0px !important;  
         cursor: pointer;
@@ -2015,7 +2012,7 @@ footer{
         height: 110px;
         background-color: #5d50c6;
         position: absolute;
-        margin-top: 158px;
+        margin-top: 195px;
         text-align: center;
         
     
@@ -2072,7 +2069,7 @@ footer{
         height: auto;
         min-height: 200px;
         text-align: center;
-        padding-top: 100px;
+        padding-top: 50px;
     
     }
     
@@ -2119,13 +2116,12 @@ footer{
     
     .pic3{
     
-        width: 30%;
-        height: 100px;
+        width: 33%;
+        height: 80px;
         border-radius: 50%;
         margin-top: 80px;
         margin-left: 30px;
         
-    
     }
     
     .pic3 img{
@@ -2382,10 +2378,31 @@ footer{
         margin-top: -10px;
         font-size: small;
     }
+}
+@media (min-width:390px) and (max-width:500px){
+
+    .pic3{
     
+        width: 37%;
+        height: 140px;
+        border-radius: 50%;
+        margin-top: 80px;
+        margin-left: 30px;
+        
+    }
+    
+}
+@media (min-width:401px) and (max-width:479px){
 
+    .zeg{
+    
+        width: 16%;
+        height: 70px;
+        background-color:#fd5f00;
+        border-radius: 50%;
 
-
+    }
+    
 }
 
 @media(min-width:501px) and (max-width:600px){
